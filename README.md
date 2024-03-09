@@ -1,6 +1,6 @@
 # Uncertainty Quantification in Natural Language Explanations of Language Models
 
-This is the source code for all the experiments pertaining to the paper "Uncertainty Quantification in Natural Language Explanations of Language Models" under review at AISTATS 2024.
+This is the source code for all the experiments pertaining to the paper "Uncertainty Quantification in Natural Language Explanations of Language Models" accepted at AISTATS 2024.
 
 As mentioned in the paper, We conduct experiments using three math word problem and two commonsense reasoning benchmark datasets. i) the **GSM8K** dataset that comprises several math word problems, ii) the **SVAMP** dataset contains math word problems with varying structures, iii) the **ASDiv** dataset consisting of diverse math word problems, iv) the **StrategyQA** requires a language model to deduce a multi-step reasoning strategy to answer questions and v) the **Sports Understanding** dataset, which is a specialized evaluation set from the BIG-bench that involves determining whether a sentence relating to sports is plausible or implausible.
 
